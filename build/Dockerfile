@@ -19,7 +19,7 @@ RUN apt-get update && apt-get install -y \
     libonig-dev \
     libxml2-dev \
     libpq-dev \
-    supervisor \
+    supervisor 
 
     # Install nginx 
 RUN apt update && apt install -y nginx
