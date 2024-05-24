@@ -1,6 +1,8 @@
-<img src="https://www.svgrepo.com/download/373924/nginx.svg" alt="NGINX" width="150"/>
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://www.svgrepo.com/download/373924/nginx.svg" alt="NGINX" width="150"/>
+    <img src="https://clipart-library.com/images_k/php-logo-transparent/php-logo-transparent-11.png" alt="PHP" width="250"/>
+</div>
 
-<img src="https://clipart-library.com/images_k/php-logo-transparent/php-logo-transparent-11.png" alt="PHP" width="250"/>
 
 
 
